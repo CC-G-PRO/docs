@@ -1,2 +1,9 @@
 # docs
-개발 문서화
+
+repo
+/api-server
+/ai-server
+/Module
+/front
+
+![image](https://github.com/user-attachments/assets/8d269dcb-bdb8-48b4-865b-668648c1ed15)
